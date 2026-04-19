@@ -1,4 +1,5 @@
 # Mandle-brot-zoom
+[mandlebrot zoom](recording.gif)
 🌌 Mandelbrot GPU Explorer (FP64 Precision)
 A high-performance fractal renderer built with C++ and Raylib that utilizes GLSL fragment shaders with double-precision (FP64) math for deep-space exploration of the Mandelbrot set.
 ### 🚀 Technical Highlights
