@@ -32,5 +32,5 @@ A high-performance fractal renderer built with C++ and Raylib that utilizes GLSL
 Compilation (Linux/GCC)
 bash
 
-''' g++ main.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -o mandelbrot
-./mandelbrot ''' 
+g++ main.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -o mandelbrot
+./mandelbrot
